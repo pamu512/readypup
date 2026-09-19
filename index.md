@@ -7,7 +7,7 @@ title: Privacy Policy
 
 
 **Effective date:** 12 September 2026  
-**Last updated:** 12 September 2026  
+**Last updated:** 19 September 2026  
 **Contact:** anoop.pamu@gmail.com  
 
 ReadyPup ("the App," "we," "us") is an educational dog-care readiness and scheduling app. This Privacy Policy explains what information the App processes, why, and your choices.
@@ -23,6 +23,10 @@ If you have questions about this policy or your data, email **anoop.pamu@gmail.c
 This policy applies to people who download and use ReadyPup on iOS or Android.
 
 The App is not directed at children under 13 (or the equivalent minimum age in your country). Do not use the App if you are under that age.
+
+## Age suitability {#age-suitability}
+
+ReadyPup is an educational dog-care readiness coach for a general audience. It is not a social network, a Kids-category app, or an age-gated community. The App is not directed at children under 13 (or the equivalent minimum age in your country). ReadyPup does not include age-assurance or parental-control product features beyond the normal App Store age rating and the operating system's parental controls. For questions, email **anoop.pamu@gmail.com**.
 
 ---
 
