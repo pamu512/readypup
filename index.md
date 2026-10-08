@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-# Privacy Policy — ReadyPup
+# ReadyPup Privacy Policy
 
 
 **Effective date:** 12 September 2026  
@@ -35,7 +35,7 @@ ReadyPup is an educational dog-care readiness coach for a general audience. It i
 | Data | Stored on your device? | Sent off device? | Required? |
 |---|---|---|---|
 | Dog profiles, care tasks, progress, fallout, preferences | Yes | No (v1) | To use core features |
-| Approximate location (GPS) | May be cached briefly | Yes — to a weather provider to fetch local conditions | Only if you allow location for weather / walk features |
+| Approximate location (GPS) | May be cached briefly | Yes, to a weather provider to fetch local conditions | Only if you allow location for weather / walk features |
 | Motion / step data during walk sessions | Session/local records | No (steps stay on device in v1) | Only if you allow motion/fitness permissions for walk verification |
 | Crash / diagnostics (if enabled by the OS or a future SDK) | Varies | Only if a diagnostics SDK is added and disclosed | Optional / OS-controlled |
 
@@ -106,9 +106,9 @@ We do **not** use your dog-care data to train third-party advertising models.
 
 Where applicable, we process data based on:
 
-- **Contract / service delivery** — providing the App features you request  
-- **Consent** — location, motion/steps, and notifications (you can revoke in system settings)  
-- **Legitimate interests** — securing and operating a local-first educational app, in a manner that does not override your rights  
+- **Contract / service delivery:** providing the App features you request  
+- **Consent:** location, motion/steps, and notifications (you can revoke in system settings)  
+- **Legitimate interests:** securing and operating a local-first educational app, in a manner that does not override your rights  
 
 ---
 
@@ -116,9 +116,9 @@ Where applicable, we process data based on:
 
 We share data only as follows:
 
-1. **Weather provider** — coordinates (when you use weather features) as described above  
-2. **Operating system / app stores** — Apple and Google process install, crash, and standard store analytics under their policies  
-3. **Legal requirements** — if required by law or to protect rights and safety  
+1. **Weather provider:** coordinates (when you use weather features) as described above  
+2. **Operating system / app stores:** Apple and Google process install, crash, and standard store analytics under their policies  
+3. **Legal requirements:** if required by law or to protect rights and safety  
 
 We do not sell personal information.
 
@@ -195,5 +195,5 @@ Use this section when filling Apple Privacy Nutrition Labels and Google Play Dat
 | Motion / fitness / steps | Collected if permitted during walk verification; App Functionality; on-device in v1 |
 | Contact info | Not collected by the App; email above is for policy contact only |
 | Account / purchase | No account; no in-app donate purchase in current product |
-| Diagnostics | Only if an SDK is added later — update this policy and store forms before shipping |
+| Diagnostics | Only if an SDK is added later. Update this policy and store forms before shipping |
 | Tracking | Do not enable cross-app tracking without updating this policy and ATT where required |
