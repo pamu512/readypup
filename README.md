@@ -1,4 +1,4 @@
-# ReadyPup — public site
+# ReadyPup public site
 
 This repository is the GitHub Pages host for the ReadyPup privacy policy.
 
